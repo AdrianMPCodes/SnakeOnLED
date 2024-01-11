@@ -1,6 +1,4 @@
 #include <LinkedList.h>
-// cant move up or down
-// moves too fast
 const int joystickXPin = A4; // Reversed pin values from actual, values because my joystick is aligned vertically
 const int joystickYPin = A5;
 
